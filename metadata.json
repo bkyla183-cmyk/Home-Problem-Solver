@@ -1,0 +1,6 @@
+{
+  "name": "Home Problem Solver",
+  "description": "A practical home troubleshooting and maintenance resource for American homeowners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
